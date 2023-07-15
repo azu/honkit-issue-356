@@ -1,0 +1,11 @@
+{
+	"gitbook": ">=3.0.0",
+	"root": "./docs",
+	"title": "HonKit Test Site",
+	"structure": {
+    	"readme": "README.adoc",
+    	"summary": "SUMMARY.adoc"
+	},
+	"plugins": ["-lunr", "-search", "search-pro-fixed"],
+	"language": "jp"
+}

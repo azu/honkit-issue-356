@@ -1,0 +1,19 @@
+{
+  "name": "honkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^4.0.8"
+  },
+  "dependencies": {
+    "@honkit/asciidoc": "^4.0.8",
+    "gitbook-plugin-search-pro-fixed": "^1.0.1"
+  }
+}
